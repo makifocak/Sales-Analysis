@@ -1,4 +1,4 @@
-# Sales-Analysis
+# Sales-Analysis-SQL
 
 For this analysis, I have used a retail-shop dataset which had 1000 unique rows. Using SQL, I investigated the relationships between different variables such as total sales and the product category; gender and the product category; total transactions by month. 
 
